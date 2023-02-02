@@ -1,4 +1,3 @@
 ### Hello there 👋
 
-Hi, I'm Kris, a Full Stack web developer and i literally almost don't have any necessary or many public repos so thank you :) <br>
-I oftenly working on private production projects only
+I'm Kris, a Software Engineer mainly on the backend. That's it.
