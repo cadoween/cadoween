@@ -1,3 +1,8 @@
-### Hello there 👋
-
-I'm Kris, a Software Engineer mainly on the backend, use Go on a daily basis and that's it :)
+```
+_________         __ ________                 
+\_   ___ \_____ _/  |\______ \   ____   ____              /\_/\  
+/    \  \/\__  \\   __\    |  \ /  _ \ / ___\            ( o.o ) 
+\     \____/ __ \|  | |    `   (  <_> ) /_/  >            > ^ <
+ \______  (____  /__|/_______  /\____/\___  /           is here...
+        \/     \/            \/      /_____/  
+```
